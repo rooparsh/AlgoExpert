@@ -1,4 +1,3 @@
-import kotlin.math.sqrt
 
 /**
  * Difficulty : Easy
