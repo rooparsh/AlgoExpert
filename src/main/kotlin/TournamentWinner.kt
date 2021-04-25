@@ -3,6 +3,8 @@
  * Problem Statement : https://www.algoexpert.io/questions/Tournament%20Winner
  */
 
+import kotlin.collections.maxByOrNull
+
 fun main() {
     val competitions = listOf(
         listOf("HTML", "C#"),

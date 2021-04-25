@@ -1,4 +1,3 @@
-
 /**
  * Difficulty : Easy
  * Problem Statement : https://www.algoexpert.io/questions/Sorted%20Squared%20Array
