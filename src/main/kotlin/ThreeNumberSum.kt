@@ -1,5 +1,5 @@
 /**
- * Difficulty : Easy
+ * Difficulty : Medium
  * Problem Statement : https://www.algoexpert.io/questions/Three%20Number%20Sum
  */
 

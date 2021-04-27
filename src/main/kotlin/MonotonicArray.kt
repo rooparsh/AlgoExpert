@@ -1,5 +1,5 @@
 /**
- * Difficulty : Easy
+ * Difficulty : Medium
  * Problem Statement : https://www.algoexpert.io/questions/Monotonic%20Array
  */
 
