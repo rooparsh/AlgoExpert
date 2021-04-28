@@ -3,7 +3,8 @@
  * Problem Statement : https://www.algoexpert.io/questions/Tournament%20Winner
  */
 
-import kotlin.collections.maxByOrNull
+import java.util.Collections
+
 
 fun main() {
     val competitions = listOf(
@@ -30,5 +31,11 @@ fun tournamentWinner(competitions: List<List<String>>, results: List<Int>): Stri
         }
     }
 
-    return competitionsMap.maxByOrNull { it.value }!!.key
+    val maxValueInMap: Int = Collections.max(competitionsMap.values)
+    for ((key, value) in competitionsMap.entries) {
+        if (value == maxValueInMap) {
+            return key
+        }
+    }
+    return ""
 }
