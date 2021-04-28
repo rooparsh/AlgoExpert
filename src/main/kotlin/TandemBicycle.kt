@@ -1,7 +1,7 @@
 import kotlin.math.max
 
 /**
- * Difficulty : Medium
+ * Difficulty : Easy
  * Problem Statement : https://www.algoexpert.io/questions/Tandem%20Bicycle
  */
 
