@@ -1,6 +1,6 @@
 /**
  * Difficulty : Easy
- * Problem Statement : https://www.algoexpert.io/questions/Nth%20Fibonacci
+ * Problem Statement : https://www.algoexpert.io/questions/Product%20Sum
  */
 
 fun main() {
