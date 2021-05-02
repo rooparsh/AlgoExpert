@@ -18,12 +18,6 @@ fun main() {
 
     findClosestValueInBst(tree, 12)
 }
-
-open class BST(var value: Int) {
-    var left: BST? = null
-    var right: BST? = null
-}
-
 fun findClosestValueInBst(tree: BST, target: Int): Int {
     return findClosestValueInBstWithValue(tree, target, tree.value)
 }
