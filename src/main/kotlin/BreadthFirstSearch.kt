@@ -1,8 +1,8 @@
 import java.util.*
 
 /**
- * Difficulty : Easy
- * Problem Statement : https://www.algoexpert.io/questions/Node%20Depths
+ * Difficulty : Medium
+ * Problem Statement : https://www.algoexpert.io/questions/Breadth-first%20Search
  */
 
 fun main() {
